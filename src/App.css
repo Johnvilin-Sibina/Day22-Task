@@ -1,0 +1,14 @@
+.container{
+  margin-top:2%;
+  background-color: blue;
+  padding: 50px;
+}
+.title{
+  color: grey;
+}
+.line{
+  color: grey;
+}
+.card{
+    margin-bottom: 3%;
+}
