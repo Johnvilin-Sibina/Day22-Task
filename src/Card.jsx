@@ -3,7 +3,7 @@ import { ImCross } from "react-icons/im";
 function Card({ item }) {
   return (
     <div className="col-md-4">
-      <div className="card rounded-4" style={{ width: "10rem;" }}>
+      <div className="card rounded-4" style={{ width: "18rem"}}>
         <div className="card-body">
           <h6 className="text-center title">{item.plan}</h6>
           <h3 className="text-center">{item.price}</h3>
