@@ -2,8 +2,8 @@ import { TiTick } from "react-icons/ti";
 import { ImCross } from "react-icons/im";
 function Card({ item }) {
   return (
-    <div className="col-md-4">
-      <div className="card rounded-4" style={{ width: "30"}}>
+    <div className="col-md-4 col-sm-6">
+      <div className="card rounded-4 h-100">
         <div className="card-body">
           <h6 className="text-center title">{item.plan}</h6>
           <h3 className="text-center">{item.price}</h3>
