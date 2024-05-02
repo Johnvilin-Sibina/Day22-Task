@@ -5,7 +5,7 @@
   <li>I have written the CSS styles in the file App.css and imported it in the file App.jsx.</li>
 </ol>
 <h4>Deployment URL:</h4>
-<a href="https://adorable-cuchufli-1557ef.netlify.app/">https://adorable-cuchufli-1557ef.netlify.app/</a>
+<a href="https://adorable-cuchufli-1557ef.netlify.app/">https://adorable-cuchufli-1557ef.netlify.app/</a><br>
 <b>I have written the code in dynamic manner.</b>
 
 
