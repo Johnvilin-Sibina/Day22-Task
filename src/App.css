@@ -9,6 +9,9 @@
 .line{
   color: grey;
 }
-.card{
-    margin-bottom: 3%;
+.col-md-4{
+  margin-bottom: 5%;
+}
+.card:hover{
+zoom: 105%;
 }
