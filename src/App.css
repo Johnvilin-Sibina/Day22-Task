@@ -9,7 +9,9 @@
 .line{
   color: grey;
 }
-
+.col-md-4{
+  margin-bottom: 2%;
+}
 .card:hover{
 zoom: 105%;
 }
